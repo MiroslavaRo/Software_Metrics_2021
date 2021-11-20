@@ -13,8 +13,6 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "03_test", "03_test\03_test.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assignment_1", "Assignment_1", "{1C92FE27-8553-43C2-B753-A667BA67387A}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assignment_2", "Assignment_2", "{9B336003-8A32-4A33-8543-7D406FB8F065}"
-EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "my_python_code", "my_python_code\my_python_code.pyproj", "{8EDC2477-2972-45B8-97D5-020D957D3504}"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "04_test", "04_test\04_test.pyproj", "{731C7D8D-85F1-4733-817D-7A38E8C4C544}"

@@ -21,13 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="C:\test\selenium_test.py">
-      <Link>selenium_test.py</Link>
-    </Compile>
-    <Compile Include="C:\test\version.py">
-      <SubType>Code</SubType>
-      <Link>version.py</Link>
-    </Compile>
+    <Compile Include="_04_test.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
